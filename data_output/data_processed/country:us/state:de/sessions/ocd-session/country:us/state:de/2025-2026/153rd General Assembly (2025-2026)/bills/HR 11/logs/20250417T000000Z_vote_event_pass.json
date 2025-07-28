@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SM",
+  "motion_classification": [],
+  "start_date": "2025-04-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "153",
+  "bill": "b6f522c2-6bd9-11f0-b1b1-2ebb0a7c3727",
+  "bill_action": null,
+  "bill_identifier": "HR 11",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/json/RollCallController/GenerateRollCallPdf?rollCallId=56781&chamberId=2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HR 11 in 153#56781#SM#lower#2025-04-17",
+  "_id": "b74c84e0-6bd9-11f0-b1b1-2ebb0a7c3727"
+}

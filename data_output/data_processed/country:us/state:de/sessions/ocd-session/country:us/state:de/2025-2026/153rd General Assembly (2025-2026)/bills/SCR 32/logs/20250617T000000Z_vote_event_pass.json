@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SM",
+  "motion_classification": [],
+  "start_date": "2025-06-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "153",
+  "bill": "52433b7e-6bda-11f0-b1b1-2ebb0a7c3727",
+  "bill_action": null,
+  "bill_identifier": "SCR 32",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/json/RollCallController/GenerateRollCallPdf?rollCallId=57195&chamberId=2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SCR 32 in 153#57195#SM#lower#2025-06-17",
+  "_id": "52b05c5e-6bda-11f0-b1b1-2ebb0a7c3727"
+}

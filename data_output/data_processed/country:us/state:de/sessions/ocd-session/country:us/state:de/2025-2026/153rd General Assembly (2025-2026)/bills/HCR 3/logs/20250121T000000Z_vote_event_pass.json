@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SM",
+  "motion_classification": [],
+  "start_date": "2025-01-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "153",
+  "bill": "b3b224f2-6bd9-11f0-b1b1-2ebb0a7c3727",
+  "bill_action": null,
+  "bill_identifier": "HCR 3",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/json/RollCallController/GenerateRollCallPdf?rollCallId=56470&chamberId=2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HCR 3 in 153#56470#SM#lower#2025-01-21",
+  "_id": "b41a140e-6bd9-11f0-b1b1-2ebb0a7c3727"
+}
