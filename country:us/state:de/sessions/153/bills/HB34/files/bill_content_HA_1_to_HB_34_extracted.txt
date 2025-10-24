@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 1 to HB 34
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Collins HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE BILL NO. 34 AMEND House Bill No. 34 by deleting on lines 33 through 37 the following sentences: â The annual tax set forth in this paragraph will be adjusted annually using the Consumer Price Index for all Urban Consumers (Philadelphia-Camden-Wilmington, not seasonally adjusted) (âCPI-Uâ), beginning on January 1, 2026. CPI-U increases may occur not more than once in any twelve (12) month period. Any annual increase shall not exceed the percentage increase in the CPI-U, or any successor index published by the U.S. Department of Labor, for the previous twelve (12) months. â. SYNOPSIS This amendment removes the provision relating to annually adjusting the tax by the Consumer Price Index.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Collins HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE BILL NO. 34 AMEND House Bill No. 34 by deleting on lines 33 through 37 the following sentences: â The annual tax set forth in this paragraph will be adjusted annually using the Consumer Price Index for all Urban Consumers (Philadelphia-Camden-Wilmington, not seasonally adjusted) (âCPI-Uâ), beginning on January 1, 2026. CPI-U increases may occur not more than once in any twelve (12) month period. Any annual increase shall not exceed the percentage increase in the CPI-U, or any successor index published by the U.S. Department of Labor, for the previous twelve (12) months. â. SYNOPSIS This amendment removes the provision relating to annually adjusting the tax by the Consumer Price Index.

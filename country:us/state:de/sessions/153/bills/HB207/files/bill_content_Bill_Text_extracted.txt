@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Bolden & Sen.Â Brown Rep. K.Â Johnson; Sens. Hoffner, Wilson HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 207 AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO PENSIONS FOR RETIRED STATE EMPLOYEES. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Â§ 5532, Title 29 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 5532. Increases in pensions. (t) Any monthly service, disability, and survivor pension based on a former service or disability pension that was effective on or before June 30, 2005, and is payable on July 1, 2025, is increased effective July 1, 2025, by 3%. Any monthly service, disability, and survivor pension based on a former service or disability pension that was effective on or before June 30, 2020, but after June 30, 2005, and is payable on July 1, 2025, is increased effective July 1, 2025, by 2%. These increases must continue to be paid through June 30, 2026, and every fiscal year thereafter, provided that funds are appropriated by the General Assembly in accordance with Â§ 5544 and Â§ 5548 of this title. SYNOPSIS This Act increases the monthly service, disability, and survivor pension for retired State employees. For pensions effective on or before June 30, 2005, the increase is 3%. For pensions effective after June 30, 2005, the increase is 2%.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Bolden & Sen.Â Brown Rep. K.Â Johnson; Sens. Hoffner, Wilson HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 207 AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO PENSIONS FOR RETIRED STATE EMPLOYEES. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Â§ 5532, Title 29 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 5532. Increases in pensions. (t) Any monthly service, disability, and survivor pension based on a former service or disability pension that was effective on or before June 30, 2005, and is payable on July 1, 2025, is increased effective July 1, 2025, by 3%. Any monthly service, disability, and survivor pension based on a former service or disability pension that was effective on or before June 30, 2020, but after June 30, 2005, and is payable on July 1, 2025, is increased effective July 1, 2025, by 2%. These increases must continue to be paid through June 30, 2026, and every fiscal year thereafter, provided that funds are appropriated by the General Assembly in accordance with Â§ 5544 and Â§ 5548 of this title. SYNOPSIS This Act increases the monthly service, disability, and survivor pension for retired State employees. For pensions effective on or before June 30, 2005, the increase is 3%. For pensions effective after June 30, 2005, the increase is 2%.

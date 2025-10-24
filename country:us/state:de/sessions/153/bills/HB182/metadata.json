@@ -347,6 +347,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T18:15:26Z"
+    "logs_latest_update": "2025-10-23T18:15:26Z",
+    "text_extraction_latest_update": "2025-10-24T03:07:46.147841Z"
   }
 }
