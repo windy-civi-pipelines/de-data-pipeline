@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 1 to HJR 3
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Burns HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE JOINT RESOLUTION NO. 3 AMEND House Joint Resolution No. 3 by deleting âtechnologies.â as it appears on line 12 and inserting in lieu thereof âtechnologies; and.â. FURTHER AMEND House Joint Resolution No. 3 by inserting the following after line 12 and before line 13: âWHEREAS, grid-enhancing technologies, including advanced transmission technologies, non-wires alternatives to distribution system improvements, demand response programs, smart charge management programs, and advanced reconductoring, the energy efficiency tools of the power grid, can help increase the capacity of the grid faster and without building new lines.â. FURTHER AMEND House Joint Resolution No. 3 by deleting lines 39 and 40 in their entirety and inserting in lieu thereof the following: âBE IT FURTHER RESOLVED that any future implementation of GETs will involve the active participation and consultation of the utilities, subject to the oversight and approval of the utilities' respective regulatory authority.â. SYNOPSIS This amendment adds a "whereas" clause and replaces a resolution clause with language that acknowledges the active participation and consultation of utilities.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Burns HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE JOINT RESOLUTION NO. 3 AMEND House Joint Resolution No. 3 by deleting âtechnologies.â as it appears on line 12 and inserting in lieu thereof âtechnologies; and.â. FURTHER AMEND House Joint Resolution No. 3 by inserting the following after line 12 and before line 13: âWHEREAS, grid-enhancing technologies, including advanced transmission technologies, non-wires alternatives to distribution system improvements, demand response programs, smart charge management programs, and advanced reconductoring, the energy efficiency tools of the power grid, can help increase the capacity of the grid faster and without building new lines.â. FURTHER AMEND House Joint Resolution No. 3 by deleting lines 39 and 40 in their entirety and inserting in lieu thereof the following: âBE IT FURTHER RESOLVED that any future implementation of GETs will involve the active participation and consultation of the utilities, subject to the oversight and approval of the utilities' respective regulatory authority.â. SYNOPSIS This amendment adds a "whereas" clause and replaces a resolution clause with language that acknowledges the active participation and consultation of utilities.

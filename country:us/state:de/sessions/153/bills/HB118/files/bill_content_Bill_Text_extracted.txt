@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Romer & Sen.Â Sokola Reps. Carson, K.Â Johnson, Heffernan; Sens. Wilson, Seigfried HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 118 AN ACT TO AMEND TITLE 30 OF THE DELAWARE CODE RELATING TO NURSING FACILITY QUALITY ASSESSMENTS. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Chapter 65, Title 30 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 6501. Definitions. As used in this chapter: (10) âNursing facilityâ means a nursing facility as defined and licensed pursuant to Chapter 11 of Title 16. As used in this chapter, the term ânursing facilityâ shall include for-profit and nonprofit entities but shall exclude the Delaware Veterans Home and any state, federal or other public government-owned facilities and any facilities that exclusively serve children. maintain an average daily census of 80 percent or more serving children under 21 years of age. SYNOPSIS This Act would allow for Exceptional Care for Children (ECC) to continue receiving an exemption from the nursing facility quality assessment. It is intended to be a technical clean-up bill to continue ECC's exemption once the Bridge Unit is open. The Bridge Unit will allow ECC to help a small number of individuals, who turn 21 while in ECC's care, transition from a pediatric setting to an adult setting.Â
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Romer & Sen.Â Sokola Reps. Carson, K.Â Johnson, Heffernan; Sens. Wilson, Seigfried HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 118 AN ACT TO AMEND TITLE 30 OF THE DELAWARE CODE RELATING TO NURSING FACILITY QUALITY ASSESSMENTS. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Chapter 65, Title 30 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 6501. Definitions. As used in this chapter: (10) âNursing facilityâ means a nursing facility as defined and licensed pursuant to Chapter 11 of Title 16. As used in this chapter, the term ânursing facilityâ shall include for-profit and nonprofit entities but shall exclude the Delaware Veterans Home and any state, federal or other public government-owned facilities and any facilities that exclusively serve children. maintain an average daily census of 80 percent or more serving children under 21 years of age. SYNOPSIS This Act would allow for Exceptional Care for Children (ECC) to continue receiving an exemption from the nursing facility quality assessment. It is intended to be a technical clean-up bill to continue ECC's exemption once the Bridge Unit is open. The Bridge Unit will allow ECC to help a small number of individuals, who turn 21 while in ECC's care, transition from a pediatric setting to an adult setting.Â

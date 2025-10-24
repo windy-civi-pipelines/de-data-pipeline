@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Romer & Rep.Â Gorman & Rep.Â Phillips & Sen.Â Pinkney Reps. Burns, Morrison, RossÂ Levin HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 196 AN ACT AMENDING TITLE 21 OF THE DELAWARE CODE RELATING TO TRAFFIC STOPS. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Chapter 7, Title 21 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 703B. Traffic stop data. (a) Whenever a person is stopped under this title or Â§ 5211 of Title 30, the law-enforcement officer must record in the Delaware Criminal Justice Information System (DELJIS) the following during or immediately after the conclusion of the stop: (1) The time, date, and location of the stop. (2) The primary reason for the stop. (3) The reason for the stop communicated to the driver. (b) The Statistical Analysis Center will have access to data collected under this section for the purpose of public reporting, oversight, and analysis related to traffic stop practices. Section 2. This Act takes effect 60 days following its enactment into law. SYNOPSIS This Act requires officers to enter the primary reason for a traffic stop into DELJIS at the time of the stop. The Statistical Analysis Center will have access to the data for the purpose of analyzing traffic stop practices.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Romer & Rep.Â Gorman & Rep.Â Phillips & Sen.Â Pinkney Reps. Burns, Morrison, RossÂ Levin HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 196 AN ACT AMENDING TITLE 21 OF THE DELAWARE CODE RELATING TO TRAFFIC STOPS. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Chapter 7, Title 21 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 703B. Traffic stop data. (a) Whenever a person is stopped under this title or Â§ 5211 of Title 30, the law-enforcement officer must record in the Delaware Criminal Justice Information System (DELJIS) the following during or immediately after the conclusion of the stop: (1) The time, date, and location of the stop. (2) The primary reason for the stop. (3) The reason for the stop communicated to the driver. (b) The Statistical Analysis Center will have access to data collected under this section for the purpose of public reporting, oversight, and analysis related to traffic stop practices. Section 2. This Act takes effect 60 days following its enactment into law. SYNOPSIS This Act requires officers to enter the primary reason for a traffic stop into DELJIS at the time of the stop. The Statistical Analysis Center will have access to the data for the purpose of analyzing traffic stop practices.

@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 1 to HB 205
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Romer HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE BILL NO. 205 AMEND House Bill No. 205 on line 120 by deleting lines 120 through 128 in their entirety and inserting in lieu thereof the following: âÂ§ 2535. Adverse actions on policies relating to the provision of medical care for termination of pregnancy. healthcare services. No insurer may, in issuing or renewing an insurance policy to a health-care healthcare professional or health-care healthcare organization, increase the premium on such policy or take other adverse action against any health-care healthcare professional or health-care healthcare organization who because the healthcare professional or healthcare organization performs or assists in the provision of reproductive health healthcare services, as that term is defined in Â§ 1702 of Title 24, that is legal in this State to an individual who is from out of the state. This section applies to a policy that covers any medical professional who prescribes medication for the termination of human pregnancy to an out-of-state patient by means of telehealth.â. SYNOPSIS This Amendment removes the language in H.B. 205 that limited the scope of Section 2535 of Title 18 to professional liability insurance only.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Romer HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE BILL NO. 205 AMEND House Bill No. 205 on line 120 by deleting lines 120 through 128 in their entirety and inserting in lieu thereof the following: âÂ§ 2535. Adverse actions on policies relating to the provision of medical care for termination of pregnancy. healthcare services. No insurer may, in issuing or renewing an insurance policy to a health-care healthcare professional or health-care healthcare organization, increase the premium on such policy or take other adverse action against any health-care healthcare professional or health-care healthcare organization who because the healthcare professional or healthcare organization performs or assists in the provision of reproductive health healthcare services, as that term is defined in Â§ 1702 of Title 24, that is legal in this State to an individual who is from out of the state. This section applies to a policy that covers any medical professional who prescribes medication for the termination of human pregnancy to an out-of-state patient by means of telehealth.â. SYNOPSIS This Amendment removes the language in H.B. 205 that limited the scope of Section 2535 of Title 18 to professional liability insurance only.

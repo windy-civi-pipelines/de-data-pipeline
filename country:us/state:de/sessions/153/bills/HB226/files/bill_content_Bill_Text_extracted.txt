@@ -1,0 +1,988 @@
+Title: HOUSE BILL NO. 226
+Official Title: HOUSE BILL NO. 226
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SPONSOR: R ep. W illiams & Sen. P aradee
+Bolden Brown
+Chukwuocha H a nsen
+Griffith Sturgeon
+Postles Buckson
+Short Lawson
+HOUSE OF REPRESENTATIVES
+153rd GENERAL ASSEMBLY
+JUNE 3, 2025
+AN ACT MAKING A ONE-TIME SUPPLEMENTAL APPROPRIATION FOR THE FISCAL YEAR ENDING
+JUNE 30, 2026, TO THE OFFICE OF MANAGEMENT AND BUDGET.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:
+1 Section 1. There is hereby appropriated $37,632,955 (Thirty-Seven Million, Six Hundred Thirty-Two
+2 Thousand, Nine Hundred Fifty-Five Dollars) in General Funds to Executive, Office of Management and Budget,
+3 Contingencies and One-Time Items (10-02-11) for the following purposes:
+4 (01-08-01) Technology $1,200,000
+5 (01-08-02) Equipment $7,000
+6 (02-08-10) Equipment $34,100
+7 (02-13-10) Permit to Purchase $13,300
+8 (02-18-01) Technology $9,000
+9 (02-18-05) Equipment $6,700
+10 (02-18-07) Survey $15,200
+11 (10-02-11) ERP Cloud Migration $2,000,000
+12 (10-02-11) Technology $432,200
+13 (10-02-11) Health Care Services Contingency $3,500,000
+14 (10-02-11) Trauma Informed Services Contingency $2,000,000
+15 (10-02-11) Technology Strategic Recruiting $275,000
+16 (10-02-11) Equipment $100,000
+CG: RAM: JFC
+0211530007 Page 1 of 16
+17 (10-02-11) Equipment $460,620
+18 (10-02-11) Equipment $100,000
+19 (10-02-11) Equipment $176,680
+20 (10-02-11) Equipment $6,700
+21 (10-02-11) Equipment $13,400
+22 (10-02-11) Technology $184,000
+23 (10-02-11) Automated Voter Registration $300,000
+24 (10-07-01) Grants System $56,500
+25 (10-07-02) Permit to Purchase $6,700
+26 (12-03-02) Insurance Revenue Shortfall $1,000,000
+27 (12-05-06) Delaware EARNS $403,700
+28 (15-02-02) Equipment $23,800
+29 (15-02-03) Conflict Attorneys $1,200,000
+30 (20-03-01) Delaware Heritage Commission $500,000
+31 (20-10-01) Grocery Initiative $1,400,000
+32 (35-05-20) Residential Lead Remediation $1,350,000
+33 (35-07-01) Smart Food Program $1,485,000
+34 (35-07-01) Emergency Housing/Shelters $750,000
+35 (38-01-03) Prison Research Innovation Network $52,700
+36 (38-01-14) DACS Update $245,000
+37 (40-03-03) Kingston-upon Hull Architectural Study $80,000
+38 (45-01-20) Equipment $350,000
+39 (45-02-10) Equipment $200,000
+40 (45-06-01) First Responder – Wellness Application Support $400,000
+41 (45-06-01) Equipment $850,000
+42 (45-06-08) Permit to Purchase $858,400
+43 (60-01-40) Equipment $200,000
+44 (75-02-01) Emergency Training Equipment $37,000
+CG: RAM: JFC
+0211530007 Page 2 of 16
+45 (75-03-01) First Responder – Wellness Application Support $400,000
+46 (90-01-01) Anatomical Donor Program $200,255
+47 (90-01-01) Midwifery Program $1,000,000
+48 (90-03-01) Operations $5,000,000
+49 (95-02-01) School Cell Phone Pilot $250,000
+50 (95-02-02) Teacher-Driven Projects $3,000,000
+51 (95-02-02) Student Discipline Program $2,000,000
+52 (95-02-02) School-Based Intervention Services Pilot Program $1,000,000
+53 (95-03-20) Early Childhood System Updates $1,700,000
+54 (95-03-50) Adult Trade Extension/Apprenticeship $500,000
+55 (95-03-50) Adult Basic Education $300,000
+56 Section 2. Section 1 of this Act provides an appropriation of $7,000 to Legislative, Office of the Controller
+57 General (01-08-02) for Equipment. The expenditure of these funds shall be contingent upon the passage of House Bill
+58 190 or similar legislation of the 153rd General Assembly.
+59 Section 3. Section 1 of this Act appropriates $13,300 in Permit to Purchase to Judicial, Justice of the Peace
+60 Court (02-13-10). The expenditure of these funds shall support full implementation of Senate Substitute 1 for Senate
+61 Bill 2 as passed by the 152nd General Assembly.
+62 Section 4. Section 1 of this Act provides an appropriation of $6,700 for Equipment to the Judicial,
+63 Administrative Office of the Courts – Non-Judicial Services, Office of the Child Advocate (02-18-05). The
+64 expenditure of these funds shall be contingent upon the passage of House Bill 42 or similar legislation of the 153rd
+65 General Assembly.
+66 Section 5. Section 1 of this Act provides an appropriation of $15,200 for a Survey to Judicial, Administrative
+67 Office of the Courts – Non-Judicial Services, Delaware Nursing Home Residents Quality Assurance Commission (02-
+68 18-07). The expenditure of these funds shall be used for the purposes of conducting a resident, family, and staff
+69 engagement and satisfaction research survey among Delaware’s nursing home resident facilities. To any extent
+70 necessary, the provisions of 29 Del. C. c. 69 shall not apply.
+71 Section 6. Section 1 of this Act appropriates $3,500,000 to Executive, Office of Management and Budget,
+72 Contingencies and One-Time Items (10-02-11) for Health Care Services Contingency. These funds shall be used to
+CG: RAM: JFC
+0211530007 Page 3 of 16
+73 supplement Fiscal Year 2026 reductions to state-operated health programs, with the intent that the agencies affected
+74 will determine alternative state, federal, or private funding sources to sustain the existing programs in subsequent
+75 fiscal years if continued.
+76 Section 7. Section 1 of this Act provides an appropriation of $100,000 for Equipment to Executive, Office of
+77 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+78 contingent upon the passage of Senate Bill 4 or similar legislation of the 153rd General Assembly establishing an
+79 Office of the Inspector General.
+80 Section 8. Section 1 of this Act provides an appropriation of $460,620 for Equipment to Executive, Office of
+81 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+82 contingent upon the passage of Senate Substitute 1 for Senate Bill 10 or similar legislation of the 153rd General
+83 Assembly.
+84 Section 9. Section 1 of this Act provides an appropriation of $100,000 for Equipment to Executive, Office of
+85 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+86 contingent upon the passage of Senate Bill 11 or similar legislation of the 153rd General Assembly.
+87 Section 10. Section 1 of this Act provides an appropriation of $176,680 for Equipment to Executive, Office of
+88 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+89 contingent upon the passage of Senate Substitute 1 for Senate Bill 17 or similar legislation of the 153rd General
+90 Assembly.
+91 Section 11. Section 1 of this Act provides an appropriation of $6,700 for Equipment to Executive, Office of
+92 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+93 contingent upon the passage of Senate Bill 32 or similar legislation of the 153rd General Assembly.
+94 Section 12. Section 1 of this Act provides an appropriation of $13,400 for Equipment to Executive, Office of
+95 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+96 contingent upon the passage of Senate Substitute 1 for Senate Bill 115 or similar legislation of the 153rd General
+97 Assembly.
+98 Section 13. Section 1 of this Act provides an appropriation of $184,000 for Technology to Executive, Office of
+99 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+100 contingent upon the passage of House Bill 128 or similar legislation of the 153rd General Assembly.
+CG: RAM: JFC
+0211530007 Page 4 of 16
+101 Section 14. (a) Section 1 of this Act provides an appropriation of $300,000 to Executive, Office of Management
+102 and Budget, Contingencies and One-Time Items (10-02-11) for Automated Voter Registration. These funds shall be
+103 used for costs at the Division of Motor Vehicles and the Department of Elections to allow voters to directly register
+104 their party affiliation at the Division of Motor Vehicles.
+105 (b) Amend § 2050, Title 15 of the Delaware Code by making deletions as shown by strike through and insertions
+106 as shown by underline as follows:
+107 § 2050. Registration through state agencies.
+108 (a) Registration through the Division of Motor Vehicles.
+109 (1) For each person who is not registered to vote and is of sufficient age to register to vote and whose
+110 information is not transmitted to the Department of Elections pursuant to § 2050A of this title, each application for
+111 a motor vehicle driver’s license under the laws of Delaware (including any renewal application) shall serve as an
+112 application for voter registration. However, any person who, at the time of the transaction with the Division of
+113 Motor Vehicles, provides a document that demonstrates noncitizenship shall not be offered the opportunity to
+114 register to vote. The Division of Motor Vehicles may not offer an opportunity to register to vote to an individual
+115 applying for a driving privileges card or permit under § 2711(d) of Title 21. The Division of Motor Vehicles is a
+116 voter registration agency for purposes of this subchapter and must provide the voter registration services under §
+117 2050A of this title.
+118 (2) [Repealed.]
+119 (3) An applicant for a motor vehicle license under this section may decline in writing to be registered to
+120 vote by way of the application for a motor vehicle driver’s license. The fact that an applicant has declined to be
+121 registered through the motor vehicle application process shall not be used for any purpose other than voter
+122 registration. [Repealed.]
+123 (4) Applications for a motor vehicle license under this section shall include as a part of the application a
+124 voter registration component. The voter registration component may not require any information which duplicates
+125 information required in the motor vehicle license component other than a second signature or information listed in
+126 paragraph (a)(5)a. of this section. If the applicant desires not to register to vote, the transmission of an electronic
+127 record will notify the Department of Elections of the applicant’s intention. [Repealed.]
+CG: RAM: JFC
+0211530007 Page 5 of 16
+128 (5) The voter registration component of the motor vehicle license application under this section shall
+129 contain all of the following:
+130 a. The minimum amount of information necessary to ensure the prevention of duplicate voter registrations
+131 and preserve the ability of election officials to determine eligibility of the applicant and otherwise administer voter
+132 registration and the election process.
+133 b. A statement setting forth voting eligibility requirements and an attestation that the applicant meets the
+134 requirements.
+135 c. The signature of the applicant under penalty of perjury.
+136 d. No requirement of notarization or other formal authorization. [Repealed.]
+137 (6) [Repealed.]
+138 (c) Amend § 2050A, Title 15 of the Delaware Code by making deletions as shown by strike through and
+139 insertions as shown by underline as follows:
+140 § 2050A. Automatic voter registration at the Division of Motor Vehicles and other agencies.
+141 (a)(1) Each person who, in the course of business with the Division of Motor Vehicles, provides documentation
+142 demonstrating United States citizenship, shall be confirmed in the Division of Motor Vehicles database as meeting the
+143 citizenship requirement for eligibility to vote. The course of business with the Division of Motor Vehicles applies to any
+144 person who comes to an office of the Division of Motor Vehicles or accesses its website in order to conduct any of the
+145 following transactions: Except as provided under paragraphs (a)(2) and (a)(3) of this section and subject to paragraphs
+146 (a)(4) and (a)(5) of this section, an individual who conducts any of the following transactions with the Division of Motor
+147 Vehicles, in person or on the Division’s website, is to be automatically registered to vote as part of the transaction:
+148 (1)a. The issuance or replacement of a commercial driver’s license under Chapter 26 of Title 21, a
+149 Level 1 Learner’s Permit or Class D operator’s license under § 2710 of Title 21, a license under § 2711 of Title
+150 21, or an identification card under § 3102 of Title 21.
+151 (2)b. The renewal of a commercial driver’s license under Chapter 26 of Title 21, a Level 1 Learner’s
+152 Permit or Class D operator’s license under § 2710 of Title 21, a license under § 2711 of Title 21, or an
+153 identification card under § 3102 of Title 21.
+CG: RAM: JFC
+0211530007 Page 6 of 16
+154 (3)c. The change of an individual’s legal name or residence address listed on a commercial driver’s
+155 license under Chapter 26 of Title 21, a Level 1 Learner’s Permit or Class D operator’s license under § 2710 of
+156 Title 21, a license under § 2711 of Title 21, or an identification card under § 3102 of Title 21.
+157 (2) An individual conducting a transaction under paragraphs (a)(1)a. through (a)(1)c. of this section may
+158 decline to be registered to vote.
+159 (3) The Division of Motor Vehicles may not register an individual to vote under this subsection if any of
+160 the following apply:
+161 a. At the time of the transaction with the Division of Motor Vehicles, the individual provides a
+162 document that demonstrates the individual is not a United States citizen.
+163 b. The Division of Motor Vehicles has information that the individual is not a United States citizen.
+164 c. The individual is applying for a driving privileges card or permit under § 2711(d) of Title 21.
+165 d. The individual declines to be registered to vote under paragraph (a)(2) of this section. The fact that
+166 the individual declines to be registered to vote under this subsection is confidential and may not be used for
+167 any purpose other than voter registration.
+168 (4) The application associated with a transaction under paragraphs (a)(1)a. through (a)(1)c. of this section
+169 must include as part of the individual’s application a voter registration component.
+170 a. The voter registration component of the application must include all of the following:
+171 1. The minimum amount of information necessary to ensure the prevention of duplicate voter
+172 registrations and preserve the ability of election officials to determine the individual’s eligibility to vote
+173 and otherwise administer voter registration and the election process. This information must include the
+174 individual’s choice of political party affiliation or choice to not be affiliated with a political party.
+175 2. A statement setting forth voting eligibility requirements and an attestation that the individual
+176 meets the requirements.
+177 3. The signature of the individual under penalty of perjury.
+178 b. The voter registration component of the application is not required to include a notarization or other
+179 formal authorization.
+CG: RAM: JFC
+0211530007 Page 7 of 16
+180 (5) The voter registration component may not require any information which duplicates information
+181 required as part of the transaction under paragraphs (a)(1)a. through (a)(1)c. of this section other than a second
+182 signature or information under paragraph (a)(4)a. of this section.
+183 (b) (1) For each individual who is confirmed in the Division of Motor Vehicles database as meeting the
+184 citizenship requirement for eligibility to vote, and who is not registered to vote and who is of sufficient age to register
+185 to vote, the Division of Motor Vehicles shall provide to the Department of Elections all of the following information
+186 about the individual:
+187 a. The individual’s name.
+188 b. The individual’s date of birth.
+189 c. The individual’s driver’s license or state ID number.
+190 d. The individual’s residence address and mailing address, if different from the residence address.
+191 e. The individual’s county of residence.
+192 f. The individual’s citizenship status. [Repealed].
+193 g. An electronic image of the individual’s signature.
+194 h. The individual’s choice of political party affiliation or choice to not be affiliated with a political
+195 party.
+196 i. If the individual declines to be registered to vote under paragraph (a)(2) of this section.
+197 (2) The Division of Motor Vehicles shall transmit the information in paragraph (b)(1) of this section to the
+198 Department of Elections electronically, at least on a daily basis, and in a format agreed upon by the Division of
+199 Motor Vehicles and the Department of Elections. The Department of Elections must be able to upload the
+200 information onto the statewide computerized voter registration database.
+201 (c) Nothing in this section shall be construed to amend the substantive qualifications for voter registration in
+202 this State or to require documentary proof of citizenship for voter registration.
+203 (d) (1) Upon receiving a complete electronic record for an individual who is not registered to vote, is of
+204 sufficient age to register to vote, and who has demonstrated United States citizenship, and did not elect to decline to
+205 register to vote under paragraph (a)(2) of this section, the Department of Elections shall, upon determination that the
+206 individual is eligible to register to vote, do all of the following:
+207 a. Register the individual to vote.
+CG: RAM: JFC
+0211530007 Page 8 of 16
+208 b. Mark the individual as unaffiliated. Register the individual’s choice of political party affiliation or
+209 choice to not be affiliated with a political party
+210 c. Send the individual a notice under paragraph (e)(1) of this section.
+211 (2) If the Department of Elections determines that a person an individual under paragraph (d)(1) of this
+212 section is ineligible to register to vote, the Department of Elections may not register the individual to vote or send
+213 the individual a notice under paragraph (e)(1) of this section.
+214 (3) If the electronic record received for an individual does not include the information required by
+215 paragraph (b)(1) of this section, the Department of Elections shall ask the individual to provide the necessary
+216 additional information, pursuant to procedures set out by Department of Elections regulations.
+217 (e) (1) For any individual registered to vote pursuant to paragraph (d)(1) of this section, the Department of
+218 Elections shall send to the person’s address of record, by nonforwardable mail, a notice that the individual has been
+219 registered to vote that contains a postage paid preaddressed return form by which the person may affiliate with a political
+220 party or decline to be registered. individual’s address of record the notice required under § 2014(c) of this title, which
+221 may include any additional information the Department of Elections determines is appropriate. If the notice is returned
+222 as undeliverable, the Department of Elections shall send the person an address verification request under § 2014(c) of
+223 this title.
+224 (2) A notice mailed under paragraph (e)(1) of this section must include an explanation of the eligibility
+225 requirements to register to vote and a statement indicating that if the person is not eligible, the person should decline
+226 to register using the preaddressed return form. The notice must also state the penalties for submission of a false
+227 application. [Repealed.]
+228 (3) The notice provided under paragraph (e)(1) of this section must also include a statement indicating that
+229 if the person declines to register to vote, the fact that the person has declined registration will remain confidential
+230 and will be used only for election administration purposes, and a statement indicating that if a person does not
+231 decline registration, the office at which the person was registered will remain confidential and will be used only for
+232 election administration purposes. [Repealed.]
+233 (4) The notice provided under paragraph (e)(1) of this section must include a statement instructing the
+234 person to select a political party in order to vote in that party’s political primary. The notice must also inform the
+235 person that they may affiliate with a political party by using the State’s online voter registration system. [Repealed.]
+CG: RAM: JFC
+0211530007 Page 9 of 16
+236 (5) The notice provided under paragraph (e)(1) of this section must provide information regarding
+237 participation in the Address Confidentiality Program pursuant to § 1303 of this title. [Repealed.]
+238 (6) The Department of Elections shall prescribe the form of the notice described in paragraph (e)(1) of this
+239 section. Such notice may be combined with the notice provided to newly registered voters required under § 2014(c)
+240 of this title. [Repealed.]
+241 (f) (1) If a person returns the notice provided under paragraph (e)(1) of this section and declines to be registered,
+242 the person’s registration is cancelled, and the person is deemed to have never registered. If the person has voted in an
+243 election after the transfer of the person’s record but before the notice is returned, the returned form is of no effect and
+244 the person is registered as of the date of the person’s application with the Division of Motor Vehicles.
+245 (2) If a person returns the notice provided under paragraph (e)(1) of this section and affiliates with a party,
+246 the person is registered as of the date of the person’s application with the Division of Motor Vehicles, and the
+247 person’s affiliation shall be marked effective as of the date the affiliation information is received.
+248 (3) If a person returns the notice provided under paragraph (e)(1) of this section without marking the option
+249 to decline or the option to affiliate with a party, the returned form is of no effect. The person is registered as of the
+250 date of the person’s application with the Division of Motor Vehicles.
+251 (4) If a notice provided under paragraph (e)(1) of this section is returned as undeliverable, the Department
+252 of Elections must send the person an address verification request pursuant to § 2014(c) of this title.
+253 (5) Information relating to the return of a notice form declining to be registered may not be used for any
+254 purpose other than election administration. [Repealed.]
+255 (l) (1) The Department of Elections shall produce an annual public report to the Governor and General
+256 Assembly that includes all of the following:
+257 a. The number of records transferred to the Department of Elections under this section, categorized by
+258 the source agency.
+259 b. The number of voters newly added to the statewide voter registration list because of records
+260 transferred, categorized by the source agency.
+261 c. The number of voters on the statewide voter registration list whose information was updated because
+262 of records transferred, categorized by the source agency and the type of information update.
+263 d. The number of individuals who declined voter registration.
+CG: RAM: JFC
+0211530007 Page 10 of 16
+264 e. Information on the implementation of audits, security, and privacy protocols.
+265 f. Any efforts the Department of Elections and source agencies plan to make to improve the efficiency
+266 and effectiveness of the voter registration process, by source agency.
+267 (2) For items in paragraphs (l)(1)a. through d. of this section, the report shall be subcategorized by sex and
+268 age of the individuals included.
+269 (3) The report may not include any personal identifying information.
+270 (4) To meet the requirement to produce the report to the General Assembly, the Department of Elections
+271 shall provide the report to all of the following:
+272 a. The President Pro Tempore and Secretary of the Senate, for distribution to all Senators.
+273 b. The Speaker and Chief Clerk of the House of Representatives, for distribution to all Representatives.
+274 c. The Director and Librarian of the Division of Legislative Services.
+275 (d) Amend § 3161, Title 15 of the Delaware Code by making deletions as shown by strike through and insertions
+276 as shown by underline as follows:
+277 § 3161. Voting procedure.
+278 (b) Notwithstanding any provision to the contrary, if a qualified unaffiliated voter who is registered to vote for
+279 the first time pursuant to § 2050A of this title appears at a primary election and indicates the intent to enroll in the party
+280 holding the primary election, such voter shall be enrolled immediately in that party and be permitted to cast a regular
+281 ballot for the primary election. [Repealed.]
+282 (e) The Department of Elections shall notify individuals registered to vote under Chapter 71 of Volume 83 of
+283 the Laws of Delaware from August 17, 2024, to the effective date of subsections (b) through (d) of this Section, which
+284 is established by subsection (f) of this Section, that the individuals may change or select political affiliation under §
+285 2049(a) of Title 15 of the Delaware Code.
+286 (f) Subsections (b) through (d) of this Section take effect on the date of publication in the Register of
+287 Regulations of a notice by the State Election Commissioner that the information technology infrastructure to implement
+288 subsections (b) through (d) of this Section is fully operational. The State Election Commissioner shall submit the notice
+289 to the Registrar of Regulations for publication.
+CG: RAM: JFC
+0211530007 Page 11 of 16
+290 Section 15. Section 1 of this Act appropriates $6,700 in Permit to Purchase to Executive, Criminal Justice,
+291 Delaware Justice Information System (10-07-02). The expenditure of these funds shall support full implementation of
+292 Senate Substitute 1 for Senate Bill 2 as passed by the 152nd General Assembly.
+293 Section 16. Section 1 of this Act appropriates $23,800 in Equipment to Office of Defense Services, Public
+294 Defender (15-02-02). The expenditure of these funds shall support full implementation of House Bill 86 as passed by
+295 the 152nd General Assembly.
+296 Section 17. Section 1 of this Act provides an appropriation of $1,350,000 to the Department of Health and
+297 Social Services, Division of Public Health, Community Health (35-05-20) for the Residential Lead Remediation to the
+298 Delaware Lead-Based Paint Abatement and Remediation Fund established by Title 16, §2613 of the Delaware Code. If
+299 House Substitute 1 for House Bill 70 of the 153rd General Assembly or similar legislation is enacted into law, the
+300 Department of Health and Social Services may use up to $350,000 of these funds to develop and implement a database
+301 and tracking system to monitor remediation and activities, and may transfer any funds between the Delaware Lead-
+302 Based Paint Abatement and Remediation Fund and the Lead-based Paint Hazard and Control Grant and Loan program
+303 to meet demand. The Department of Health and Social Services shall provide a report on the expenditure of these
+304 funds to the Co-Chairs of the Joint Finance Committee and the Controller General by May 4, 2026.
+305 Section 18. Section 1 of this Act provides an appropriation of $1,485,000 for the Smart Food Program to the
+306 Department of Health and Social Services, Social Services (35-07-01). These funds shall be used for initial
+307 implementation and development of the Smart Food Program and application. Upon implementation, the department
+308 shall provide a report to the Co-Chairs of the Joint Finance Committee, the Controller General, and the Director of the
+309 Office of Management and Budget on the status of implementation efforts, the number of participating users, the
+310 estimated expenditures of application development and the projected annual expenditures necessary to continue the
+311 program.
+312 Section 19. Section 1 of this Act provides an appropriation of $245,000 for DACS Update to Department of
+313 Correction, Administration, and Information Technology (38-01-14). The expenditure of these funds shall be
+314 contingent upon the passage of Senate Bill 7 or similar legislation of the 153rd General Assembly.
+315 Section 20. Section 1 of this Act provides an appropriation of $400,000 to Department of Safety and Homeland
+316 Security, State Police, Executive (45-06-01) and $400,000 to Fire Prevention Commission, State Fire Prevention
+317 Commission (75-03-01) for First Responder – Wellness Application Support. The expenditure of these funds is
+CG: RAM: JFC
+0211530007 Page 12 of 16
+318 intended to deliver support and resources to first responders through the implementation of a wellness application for
+319 use by law enforcement officers and firefighters through fire companies statewide. The provisions of 29 Del. C. c. 69
+320 shall not apply.
+321 Section 21. Section 1 of this Act appropriates $858,400 in Permit to Purchase to Safety and Homeland Security,
+322 State Police, State Bureau of Identification (45-06-08). The expenditure of these funds shall support full
+323 implementation of Senate Substitute 1 for Senate Bill 2 as passed by the 152nd General Assembly.
+324 Section 22. Section 1 of this Act appropriates $3,000,000 for Teacher-Driven Projects to the Department of
+325 Education, District and Charter Operations, Other Items (95-02-02). The funding shall support classroom-based
+326 literacy practices by enabling teachers to purchase evidence-based literacy materials for the classroom. Funding
+327 priority shall be given to teachers in schools that have the lowest levels of literacy proficiency and/or that have been
+328 designated for Targeted Support and Improvement (TSI) or Comprehensive Support and Improvement (CSI). The
+329 Department of Education shall submit a report by April 1, 2026, to the Co-Chairs of the Joint Finance Committee, the
+330 Controller General, and the Director of the Office of Management and Budget detailing the number of teachers who
+331 received funding, the items purchased, and the projects supported with these funds, the administrative fees expended,
+332 and any matching donations received from private entities.
+333 Section 23. Section 1 of this Act appropriates $2,000,000 to the Department of Education, District and
+334 Charter Operations, Other Items (95-02-02) for the Student Discipline Program. This funding shall be used to support
+335 additional seats within the existing alternative school programs statewide. These funds shall be allocated in the
+336 following manner: 50 percent to New Castle County, 25 percent to Kent County, and 25 percent to Sussex County. If
+337 funds are used for personnel costs, they may only be used for the state share in accordance with the schedules
+338 contained in 14 Del. C. c. 13. The services provided with this one-time funding shall provide year-round services as
+339 deemed appropriate and determined by the consortium board and the Department of Education within the prescribed
+340 state appropriation. The programs shall utilize research-based best-practice models and shall be considered a special
+341 school for the purposes of charging tuition payments to be made by school districts of residence under the statutory
+342 provisions of 14 Del. C. c. 6, such that the districts shall fund at least 30 percent of the total cost of the program. The
+343 New Castle County Consortium and the Department of Education shall oversee the administration of the program and
+344 may enter into contractual arrangements to operate the program. Such oversight shall include an annual evaluation of
+345 the program to be submitted to the Department of Education. A report shall be submitted to the Joint Finance
+CG: RAM: JFC
+0211530007 Page 13 of 16
+346 Committee, the Director of the Office of Management and Budget and the Controller General by May 1, 2026, and
+347 shall include the following: the number of students served; reasons for service; measures of behavioral improvement;
+348 measures of academic improvement as appropriate; rates of recidivism within programs; and number and types of
+349 referrals for additional services.
+350 Section 24. Section 1 of this Act appropriates $1,000,000 to the Department of Education, District and
+351 Charter Operations, Other Items (95-02-02) for School-Based Intervention Services Pilot Program. This funding shall
+352 be used to provide on-site school-based intervention services for students whose behavior disrupts the classroom
+353 setting and creates distractions that impede the learning process, but who are not eligible for placement in an
+354 alternative program pursuant to 14 DE Admin. Code 611. School districts may offer such services based on the
+355 identified needs of the district and its individual schools, subject to the requirements of 14 DE Admin. Code 609.
+356 Services provided under this pilot program may be provided to any students in grades K to 12. The Department of
+357 Education, in coordination with the Chief School Officers, shall oversee the administration of the program and identify
+358 the school settings that would be most appropriate for this pilot. The Department of Education shall submit a report to
+359 the Joint Finance Committee, the Director of the Office of Management and Budget and the Controller General by
+360 May 1, 2026 and shall include the following: the number of students served; reasons for service; measures of
+361 behavioral improvement; measures of academic improvement as appropriate; rates of recidivism within programs; and
+362 number and types of referrals for additional services.
+363 Section 25. Section 1 of this Act appropriates $1,700,000 to the Department of Education, Pass Through and
+364 Other Support Programs, Special Needs Programs (95-03-20) to complete development of its early childhood data
+365 system. Any funds remaining after data system expenses may be used by the Department of Education, Early
+366 Childhood Support, for one-time initiatives to support Kent and Sussex County Head Start programming. These funds
+367 shall not revert to the General Fund.
+368 Section 26. Section 1 of this Act appropriates $500,000 for the Adult Trade Extension/Apprentice Program to
+369 the Department of Education, Pass Through and Other Support Programs, Adult Education and Work Force Training
+370 (95-03-50). This one-time funding shall be used to provide additional services and seats within the existing Adult
+371 Trade Extension/Apprentice Programs statewide. This funding shall be distributed to the adult divisions of the three
+372 county-wide vocational technical districts in the following amounts: N.C.C. Vo-Tech $250,000; Polytech $125,000;
+CG: RAM: JFC
+0211530007 Page 14 of 16
+373 and Sussex Tech $125,000. The allocations will be used to provide adult post-secondary technical/registered
+374 apprentice training.
+375 Section 27. (a) Amend § 3602, Title 16 of the Delaware Code by making deletions as shown by strike through
+376 and insertions as shown by underline as follows and redesignating accordingly:
+377 § 3602. Definitions [For application of this section, see 84 Del. Laws, c. 373, § 3] [Expires upon fulfillment of
+378 the contingency in 84 Del. Laws, c. 373, § 2].
+379 As used in this chapter:
+380 (1) “Council” means the Delaware Council on Farm and Food Policy, a convening of state and nonstate
+381 food system stakeholders that advise the Delaware Secretary on Agriculture on food system topics.
+382 (b) Amend § 3603, Title 16 of the Delaware Code by making deletions as shown by strike through and insertions
+383 as shown by underline as follows:
+384 § 3603. Grants and financial support [For application of this section, see 84 Del. Laws, c. 373, § 3] [Expires
+385 upon fulfillment of the contingency in 84 Del. Laws, c. 373, § 2].
+386 (a) This bill chapter codifies the Program under the Delaware Grocery Initiative.
+387 (b) The Division shall, subject to appropriation and in consultation with the Council, appropriation, establish
+388 the Delaware Grocery Initiative to expand access to healthy foods in food deserts in Delaware and areas at risk of
+389 becoming food deserts in Delaware by providing grants and other forms of financial assistance to an eligible food
+390 resource, nonprofit food resource, local governmental unit food resource, or specialty grocer. The Division may:
+391 (c) The Division shall coordinate with the Council to share information and findings from the Healthy Food
+392 Retail Initiative to inform and make available technical assistance and counseling to Program participants. The Division
+393 may rely on the Division’s regional business managers to provide 1-on-1 counseling to the Program participants and
+394 assist Program participants to navigate regulatory processes, streamline compliance requirements, and access capital and
+395 other funding opportunities.
+396 (c) Amend § 3604, Title 16 of the Delaware Code by making deletions as shown by strike through and insertions
+397 as shown by underline as follows:
+398 § 3604. Food access strategy [For application of this section, see 84 Del. Laws, c. 373, § 3] [Expires upon
+399 fulfillment of the contingency in 84 Del. Laws, c. 373, § 2].
+CG: RAM: JFC
+0211530007 Page 15 of 16
+400 (a) The Council shall, subject to appropriation, develop a food access strategy to address food insecurity
+401 impacting populations within urban, suburban, and rural communities throughout the State. The strategy may include
+402 the following:
+403 (1) An analysis of identified vulnerabilities and concentrations of food insecurity risk, as well as a summary
+404 of the causes of food insecurity.
+405 (2) An inventory of food resources located throughout the State and a summary of specific barriers and
+406 solutions identified by distribution and retail operators.
+407 (3) An assessment of needs or gaps identified by food supply chain operators or individuals pursuing
+408 ownership or operation of a food resource, with particular attention to those independent retail operations.
+409 (4) A set of recommendations to address limited food access, the availability of nutritious food options,
+410 and to facilitate the expansion of foods, including nutrient rich foods, into food deserts and areas at risk of becoming
+411 food deserts.
+412 (b) The Council shall consult with public and private food resources, as well as state and nonstate entities for
+413 the purposes of creation, ongoing evaluation, implementation, and consideration of the food access strategy.
+414 (c) The Council shall issue a report documenting the food access strategy and submit the report to members of
+415 the General Assembly and the Office of the Governor by June 1, 2025. [Repealed.]
+SYNOPSIS
+This Act appropriates $37,632,955 to provide one-time funded items through the Office of Management and
+Budget.
+CG: RAM: JFC
+0211530007 Page 16 of 16
+[DELETED:  P i B S B LS   T C (       (         E        ( P        ( T       ( E       ( S        ( E   ( T   ( H   ( T ( T ( E]
+[DELETED:  ( E ( E ( E ( E ( E ( T ( A ( G $ ( P   (     ( D   ( E $ ( C $ ( D $ ( G $ ( R $ ( S $ ( E $ ( P   ( D $ ( K $ ( E   ( E   ( F    ( E    ( P   $ ( E     ( E $]
+[DELETED:  ( F $ ( A $ ( M  $ ( O   $ ( S $ ( T $ ( S $ ( S $ ( E $ ( A $ ( A $ S G 1S S C BS S A e GS S O 1 e n S S C]
+[DELETED:  s w f S M   O S M c A S M c S M c A S M cS S M c A  S M c]
+[DELETED:  S ( a u t ( a § ( ( i a a M r a v 2 ( ( v r t t m v a p s n b u f a o t v r ( v i p r]
+[DELETED:  ( c a a r b r c d ( ( i § ( d c p f ( V ( L 2 ( P i]
+[DELETED:  ( l T ( d ( t a d b c d t a ( m a 1 r a i 2 m 3 b f]
+[DELETED:  ( r s ( c t a a b c d e f g h p i ( D M V a t D o E T D o E m b a t u t i ( t ( s r i a]
+[DELETED:  b c c ( s t ( I t e r f a i d n i t i r b p a ( E r p m a t ( r t a ( i a d e ( p p]
+[DELETED:  ( T n p u p ( o t s m p i r p ( s o ( t e t ( t p ( t d ( o ( p ( A a t b t c o d]
+[DELETED:  e f a ( a ( ( s a b c ( a § ( t h b ( t i 2 ( S ( t ( o t S t e o t d o p t R o R s t]
+[DELETED: S   D S S D tS S S D H D a B t f    D i s O e pS S C cS S S C]
+[DELETED:  i u sS S S i   S E l p d D C r a    S C a f f c d s s p N m t]
+[DELETED:  C s m r    S C b s a i S E t t M b nS S O s C s  S t ( T c]
+[DELETED:  a a . a § t A ( f ( a § u ( ( t b r ( R m a o ( a § f]
+[DELETED:  ( i t ( o ( s ( o ( a f ( t ( t]
+
+
+================================================================================
+
+Raw Text:
+SPONSOR: R ep. W illiams & Sen. P aradee
+Bolden Brown
+Chukwuocha H a nsen
+Griffith Sturgeon
+Postles Buckson
+Short Lawson
+HOUSE OF REPRESENTATIVES
+153rd GENERAL ASSEMBLY
+HOUSE BILL NO. 226
+JUNE 3, 2025
+AN ACT MAKING A ONE-TIME SUPPLEMENTAL APPROPRIATION FOR THE FISCAL YEAR ENDING
+JUNE 30, 2026, TO THE OFFICE OF MANAGEMENT AND BUDGET.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:
+1 Section 1. There is hereby appropriated $37,632,955 (Thirty-Seven Million, Six Hundred Thirty-Two
+2 Thousand, Nine Hundred Fifty-Five Dollars) in General Funds to Executive, Office of Management and Budget,
+3 Contingencies and One-Time Items (10-02-11) for the following purposes:
+4 (01-08-01) Technology $1,200,000
+5 (01-08-02) Equipment $7,000
+6 (02-08-10) Equipment $34,100
+7 (02-13-10) Permit to Purchase $13,300
+8 (02-18-01) Technology $9,000
+9 (02-18-05) Equipment $6,700
+10 (02-18-07) Survey $15,200
+11 (10-02-11) ERP Cloud Migration $2,000,000
+12 (10-02-11) Technology $432,200
+13 (10-02-11) Health Care Services Contingency $3,500,000
+14 (10-02-11) Trauma Informed Services Contingency $2,000,000
+15 (10-02-11) Technology Strategic Recruiting $275,000
+16 (10-02-11) Equipment $100,000
+CG: RAM: JFC
+0211530007 Page 1 of 16
+
+17 (10-02-11) Equipment $460,620
+18 (10-02-11) Equipment $100,000
+19 (10-02-11) Equipment $176,680
+20 (10-02-11) Equipment $6,700
+21 (10-02-11) Equipment $13,400
+22 (10-02-11) Technology $184,000
+23 (10-02-11) Automated Voter Registration $300,000
+24 (10-07-01) Grants System $56,500
+25 (10-07-02) Permit to Purchase $6,700
+26 (12-03-02) Insurance Revenue Shortfall $1,000,000
+27 (12-05-06) Delaware EARNS $403,700
+28 (15-02-02) Equipment $23,800
+29 (15-02-03) Conflict Attorneys $1,200,000
+30 (20-03-01) Delaware Heritage Commission $500,000
+31 (20-10-01) Grocery Initiative $1,400,000
+32 (35-05-20) Residential Lead Remediation $1,350,000
+33 (35-07-01) Smart Food Program $1,485,000
+34 (35-07-01) Emergency Housing/Shelters $750,000
+35 (38-01-03) Prison Research Innovation Network $52,700
+36 (38-01-14) DACS Update $245,000
+37 (40-03-03) Kingston-upon Hull Architectural Study $80,000
+38 (45-01-20) Equipment $350,000
+39 (45-02-10) Equipment $200,000
+40 (45-06-01) First Responder – Wellness Application Support $400,000
+41 (45-06-01) Equipment $850,000
+42 (45-06-08) Permit to Purchase $858,400
+43 (60-01-40) Equipment $200,000
+44 (75-02-01) Emergency Training Equipment $37,000
+CG: RAM: JFC
+0211530007 Page 2 of 16
+
+45 (75-03-01) First Responder – Wellness Application Support $400,000
+46 (90-01-01) Anatomical Donor Program $200,255
+47 (90-01-01) Midwifery Program $1,000,000
+48 (90-03-01) Operations $5,000,000
+49 (95-02-01) School Cell Phone Pilot $250,000
+50 (95-02-02) Teacher-Driven Projects $3,000,000
+51 (95-02-02) Student Discipline Program $2,000,000
+52 (95-02-02) School-Based Intervention Services Pilot Program $1,000,000
+53 (95-03-20) Early Childhood System Updates $1,700,000
+54 (95-03-50) Adult Trade Extension/Apprenticeship $500,000
+55 (95-03-50) Adult Basic Education $300,000
+56 Section 2. Section 1 of this Act provides an appropriation of $7,000 to Legislative, Office of the Controller
+57 General (01-08-02) for Equipment. The expenditure of these funds shall be contingent upon the passage of House Bill
+58 190 or similar legislation of the 153rd General Assembly.
+59 Section 3. Section 1 of this Act appropriates $13,300 in Permit to Purchase to Judicial, Justice of the Peace
+60 Court (02-13-10). The expenditure of these funds shall support full implementation of Senate Substitute 1 for Senate
+61 Bill 2 as passed by the 152nd General Assembly.
+62 Section 4. Section 1 of this Act provides an appropriation of $6,700 for Equipment to the Judicial,
+63 Administrative Office of the Courts – Non-Judicial Services, Office of the Child Advocate (02-18-05). The
+64 expenditure of these funds shall be contingent upon the passage of House Bill 42 or similar legislation of the 153rd
+65 General Assembly.
+66 Section 5. Section 1 of this Act provides an appropriation of $15,200 for a Survey to Judicial, Administrative
+67 Office of the Courts – Non-Judicial Services, Delaware Nursing Home Residents Quality Assurance Commission (02-
+68 18-07). The expenditure of these funds shall be used for the purposes of conducting a resident, family, and staff
+69 engagement and satisfaction research survey among Delaware’s nursing home resident facilities. To any extent
+70 necessary, the provisions of 29 Del. C. c. 69 shall not apply.
+71 Section 6. Section 1 of this Act appropriates $3,500,000 to Executive, Office of Management and Budget,
+72 Contingencies and One-Time Items (10-02-11) for Health Care Services Contingency. These funds shall be used to
+CG: RAM: JFC
+0211530007 Page 3 of 16
+
+73 supplement Fiscal Year 2026 reductions to state-operated health programs, with the intent that the agencies affected
+74 will determine alternative state, federal, or private funding sources to sustain the existing programs in subsequent
+75 fiscal years if continued.
+76 Section 7. Section 1 of this Act provides an appropriation of $100,000 for Equipment to Executive, Office of
+77 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+78 contingent upon the passage of Senate Bill 4 or similar legislation of the 153rd General Assembly establishing an
+79 Office of the Inspector General.
+80 Section 8. Section 1 of this Act provides an appropriation of $460,620 for Equipment to Executive, Office of
+81 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+82 contingent upon the passage of Senate Substitute 1 for Senate Bill 10 or similar legislation of the 153rd General
+83 Assembly.
+84 Section 9. Section 1 of this Act provides an appropriation of $100,000 for Equipment to Executive, Office of
+85 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+86 contingent upon the passage of Senate Bill 11 or similar legislation of the 153rd General Assembly.
+87 Section 10. Section 1 of this Act provides an appropriation of $176,680 for Equipment to Executive, Office of
+88 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+89 contingent upon the passage of Senate Substitute 1 for Senate Bill 17 or similar legislation of the 153rd General
+90 Assembly.
+91 Section 11. Section 1 of this Act provides an appropriation of $6,700 for Equipment to Executive, Office of
+92 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+93 contingent upon the passage of Senate Bill 32 or similar legislation of the 153rd General Assembly.
+94 Section 12. Section 1 of this Act provides an appropriation of $13,400 for Equipment to Executive, Office of
+95 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+96 contingent upon the passage of Senate Substitute 1 for Senate Bill 115 or similar legislation of the 153rd General
+97 Assembly.
+98 Section 13. Section 1 of this Act provides an appropriation of $184,000 for Technology to Executive, Office of
+99 Management and Budget, Contingencies and One-Time Items (10-02-11). The expenditure of these funds shall be
+100 contingent upon the passage of House Bill 128 or similar legislation of the 153rd General Assembly.
+CG: RAM: JFC
+0211530007 Page 4 of 16
+
+101 Section 14. (a) Section 1 of this Act provides an appropriation of $300,000 to Executive, Office of Management
+102 and Budget, Contingencies and One-Time Items (10-02-11) for Automated Voter Registration. These funds shall be
+103 used for costs at the Division of Motor Vehicles and the Department of Elections to allow voters to directly register
+104 their party affiliation at the Division of Motor Vehicles.
+105 (b) Amend § 2050, Title 15 of the Delaware Code by making deletions as shown by strike through and insertions
+106 as shown by underline as follows:
+107 § 2050. Registration through state agencies.
+108 (a) Registration through the Division of Motor Vehicles.
+109 (1) For each person who is not registered to vote and is of sufficient age to register to vote and whose
+110 information is not transmitted to the Department of Elections pursuant to § 2050A of this title, each application for
+111 a motor vehicle driver’s license under the laws of Delaware (including any renewal application) shall serve as an
+112 application for voter registration. However, any person who, at the time of the transaction with the Division of
+113 Motor Vehicles, provides a document that demonstrates noncitizenship shall not be offered the opportunity to
+114 register to vote. The Division of Motor Vehicles may not offer an opportunity to register to vote to an individual
+115 applying for a driving privileges card or permit under § 2711(d) of Title 21. The Division of Motor Vehicles is a
+116 voter registration agency for purposes of this subchapter and must provide the voter registration services under §
+117 2050A of this title.
+118 (2) [Repealed.]
+119 (3) An applicant for a motor vehicle license under this section may decline in writing to be registered to
+120 vote by way of the application for a motor vehicle driver’s license. The fact that an applicant has declined to be
+121 registered through the motor vehicle application process shall not be used for any purpose other than voter
+122 registration. [Repealed.]
+123 (4) Applications for a motor vehicle license under this section shall include as a part of the application a
+124 voter registration component. The voter registration component may not require any information which duplicates
+125 information required in the motor vehicle license component other than a second signature or information listed in
+126 paragraph (a)(5)a. of this section. If the applicant desires not to register to vote, the transmission of an electronic
+127 record will notify the Department of Elections of the applicant’s intention. [Repealed.]
+CG: RAM: JFC
+0211530007 Page 5 of 16
+
+128 (5) The voter registration component of the motor vehicle license application under this section shall
+129 contain all of the following:
+130 a. The minimum amount of information necessary to ensure the prevention of duplicate voter registrations
+131 and preserve the ability of election officials to determine eligibility of the applicant and otherwise administer voter
+132 registration and the election process.
+133 b. A statement setting forth voting eligibility requirements and an attestation that the applicant meets the
+134 requirements.
+135 c. The signature of the applicant under penalty of perjury.
+136 d. No requirement of notarization or other formal authorization. [Repealed.]
+137 (6) [Repealed.]
+138 (c) Amend § 2050A, Title 15 of the Delaware Code by making deletions as shown by strike through and
+139 insertions as shown by underline as follows:
+140 § 2050A. Automatic voter registration at the Division of Motor Vehicles and other agencies.
+141 (a)(1) Each person who, in the course of business with the Division of Motor Vehicles, provides documentation
+142 demonstrating United States citizenship, shall be confirmed in the Division of Motor Vehicles database as meeting the
+143 citizenship requirement for eligibility to vote. The course of business with the Division of Motor Vehicles applies to any
+144 person who comes to an office of the Division of Motor Vehicles or accesses its website in order to conduct any of the
+145 following transactions: Except as provided under paragraphs (a)(2) and (a)(3) of this section and subject to paragraphs
+146 (a)(4) and (a)(5) of this section, an individual who conducts any of the following transactions with the Division of Motor
+147 Vehicles, in person or on the Division’s website, is to be automatically registered to vote as part of the transaction:
+148 (1)a. The issuance or replacement of a commercial driver’s license under Chapter 26 of Title 21, a
+149 Level 1 Learner’s Permit or Class D operator’s license under § 2710 of Title 21, a license under § 2711 of Title
+150 21, or an identification card under § 3102 of Title 21.
+151 (2)b. The renewal of a commercial driver’s license under Chapter 26 of Title 21, a Level 1 Learner’s
+152 Permit or Class D operator’s license under § 2710 of Title 21, a license under § 2711 of Title 21, or an
+153 identification card under § 3102 of Title 21.
+CG: RAM: JFC
+0211530007 Page 6 of 16
+
+154 (3)c. The change of an individual’s legal name or residence address listed on a commercial driver’s
+155 license under Chapter 26 of Title 21, a Level 1 Learner’s Permit or Class D operator’s license under § 2710 of
+156 Title 21, a license under § 2711 of Title 21, or an identification card under § 3102 of Title 21.
+157 (2) An individual conducting a transaction under paragraphs (a)(1)a. through (a)(1)c. of this section may
+158 decline to be registered to vote.
+159 (3) The Division of Motor Vehicles may not register an individual to vote under this subsection if any of
+160 the following apply:
+161 a. At the time of the transaction with the Division of Motor Vehicles, the individual provides a
+162 document that demonstrates the individual is not a United States citizen.
+163 b. The Division of Motor Vehicles has information that the individual is not a United States citizen.
+164 c. The individual is applying for a driving privileges card or permit under § 2711(d) of Title 21.
+165 d. The individual declines to be registered to vote under paragraph (a)(2) of this section. The fact that
+166 the individual declines to be registered to vote under this subsection is confidential and may not be used for
+167 any purpose other than voter registration.
+168 (4) The application associated with a transaction under paragraphs (a)(1)a. through (a)(1)c. of this section
+169 must include as part of the individual’s application a voter registration component.
+170 a. The voter registration component of the application must include all of the following:
+171 1. The minimum amount of information necessary to ensure the prevention of duplicate voter
+172 registrations and preserve the ability of election officials to determine the individual’s eligibility to vote
+173 and otherwise administer voter registration and the election process. This information must include the
+174 individual’s choice of political party affiliation or choice to not be affiliated with a political party.
+175 2. A statement setting forth voting eligibility requirements and an attestation that the individual
+176 meets the requirements.
+177 3. The signature of the individual under penalty of perjury.
+178 b. The voter registration component of the application is not required to include a notarization or other
+179 formal authorization.
+CG: RAM: JFC
+0211530007 Page 7 of 16
+
+180 (5) The voter registration component may not require any information which duplicates information
+181 required as part of the transaction under paragraphs (a)(1)a. through (a)(1)c. of this section other than a second
+182 signature or information under paragraph (a)(4)a. of this section.
+183 (b) (1) For each individual who is confirmed in the Division of Motor Vehicles database as meeting the
+184 citizenship requirement for eligibility to vote, and who is not registered to vote and who is of sufficient age to register
+185 to vote, the Division of Motor Vehicles shall provide to the Department of Elections all of the following information
+186 about the individual:
+187 a. The individual’s name.
+188 b. The individual’s date of birth.
+189 c. The individual’s driver’s license or state ID number.
+190 d. The individual’s residence address and mailing address, if different from the residence address.
+191 e. The individual’s county of residence.
+192 f. The individual’s citizenship status. [Repealed].
+193 g. An electronic image of the individual’s signature.
+194 h. The individual’s choice of political party affiliation or choice to not be affiliated with a political
+195 party.
+196 i. If the individual declines to be registered to vote under paragraph (a)(2) of this section.
+197 (2) The Division of Motor Vehicles shall transmit the information in paragraph (b)(1) of this section to the
+198 Department of Elections electronically, at least on a daily basis, and in a format agreed upon by the Division of
+199 Motor Vehicles and the Department of Elections. The Department of Elections must be able to upload the
+200 information onto the statewide computerized voter registration database.
+201 (c) Nothing in this section shall be construed to amend the substantive qualifications for voter registration in
+202 this State or to require documentary proof of citizenship for voter registration.
+203 (d) (1) Upon receiving a complete electronic record for an individual who is not registered to vote, is of
+204 sufficient age to register to vote, and who has demonstrated United States citizenship, and did not elect to decline to
+205 register to vote under paragraph (a)(2) of this section, the Department of Elections shall, upon determination that the
+206 individual is eligible to register to vote, do all of the following:
+207 a. Register the individual to vote.
+CG: RAM: JFC
+0211530007 Page 8 of 16
+
+208 b. Mark the individual as unaffiliated. Register the individual’s choice of political party affiliation or
+209 choice to not be affiliated with a political party
+210 c. Send the individual a notice under paragraph (e)(1) of this section.
+211 (2) If the Department of Elections determines that a person an individual under paragraph (d)(1) of this
+212 section is ineligible to register to vote, the Department of Elections may not register the individual to vote or send
+213 the individual a notice under paragraph (e)(1) of this section.
+214 (3) If the electronic record received for an individual does not include the information required by
+215 paragraph (b)(1) of this section, the Department of Elections shall ask the individual to provide the necessary
+216 additional information, pursuant to procedures set out by Department of Elections regulations.
+217 (e) (1) For any individual registered to vote pursuant to paragraph (d)(1) of this section, the Department of
+218 Elections shall send to the person’s address of record, by nonforwardable mail, a notice that the individual has been
+219 registered to vote that contains a postage paid preaddressed return form by which the person may affiliate with a political
+220 party or decline to be registered. individual’s address of record the notice required under § 2014(c) of this title, which
+221 may include any additional information the Department of Elections determines is appropriate. If the notice is returned
+222 as undeliverable, the Department of Elections shall send the person an address verification request under § 2014(c) of
+223 this title.
+224 (2) A notice mailed under paragraph (e)(1) of this section must include an explanation of the eligibility
+225 requirements to register to vote and a statement indicating that if the person is not eligible, the person should decline
+226 to register using the preaddressed return form. The notice must also state the penalties for submission of a false
+227 application. [Repealed.]
+228 (3) The notice provided under paragraph (e)(1) of this section must also include a statement indicating that
+229 if the person declines to register to vote, the fact that the person has declined registration will remain confidential
+230 and will be used only for election administration purposes, and a statement indicating that if a person does not
+231 decline registration, the office at which the person was registered will remain confidential and will be used only for
+232 election administration purposes. [Repealed.]
+233 (4) The notice provided under paragraph (e)(1) of this section must include a statement instructing the
+234 person to select a political party in order to vote in that party’s political primary. The notice must also inform the
+235 person that they may affiliate with a political party by using the State’s online voter registration system. [Repealed.]
+CG: RAM: JFC
+0211530007 Page 9 of 16
+
+236 (5) The notice provided under paragraph (e)(1) of this section must provide information regarding
+237 participation in the Address Confidentiality Program pursuant to § 1303 of this title. [Repealed.]
+238 (6) The Department of Elections shall prescribe the form of the notice described in paragraph (e)(1) of this
+239 section. Such notice may be combined with the notice provided to newly registered voters required under § 2014(c)
+240 of this title. [Repealed.]
+241 (f) (1) If a person returns the notice provided under paragraph (e)(1) of this section and declines to be registered,
+242 the person’s registration is cancelled, and the person is deemed to have never registered. If the person has voted in an
+243 election after the transfer of the person’s record but before the notice is returned, the returned form is of no effect and
+244 the person is registered as of the date of the person’s application with the Division of Motor Vehicles.
+245 (2) If a person returns the notice provided under paragraph (e)(1) of this section and affiliates with a party,
+246 the person is registered as of the date of the person’s application with the Division of Motor Vehicles, and the
+247 person’s affiliation shall be marked effective as of the date the affiliation information is received.
+248 (3) If a person returns the notice provided under paragraph (e)(1) of this section without marking the option
+249 to decline or the option to affiliate with a party, the returned form is of no effect. The person is registered as of the
+250 date of the person’s application with the Division of Motor Vehicles.
+251 (4) If a notice provided under paragraph (e)(1) of this section is returned as undeliverable, the Department
+252 of Elections must send the person an address verification request pursuant to § 2014(c) of this title.
+253 (5) Information relating to the return of a notice form declining to be registered may not be used for any
+254 purpose other than election administration. [Repealed.]
+255 (l) (1) The Department of Elections shall produce an annual public report to the Governor and General
+256 Assembly that includes all of the following:
+257 a. The number of records transferred to the Department of Elections under this section, categorized by
+258 the source agency.
+259 b. The number of voters newly added to the statewide voter registration list because of records
+260 transferred, categorized by the source agency.
+261 c. The number of voters on the statewide voter registration list whose information was updated because
+262 of records transferred, categorized by the source agency and the type of information update.
+263 d. The number of individuals who declined voter registration.
+CG: RAM: JFC
+0211530007 Page 10 of 16
+
+264 e. Information on the implementation of audits, security, and privacy protocols.
+265 f. Any efforts the Department of Elections and source agencies plan to make to improve the efficiency
+266 and effectiveness of the voter registration process, by source agency.
+267 (2) For items in paragraphs (l)(1)a. through d. of this section, the report shall be subcategorized by sex and
+268 age of the individuals included.
+269 (3) The report may not include any personal identifying information.
+270 (4) To meet the requirement to produce the report to the General Assembly, the Department of Elections
+271 shall provide the report to all of the following:
+272 a. The President Pro Tempore and Secretary of the Senate, for distribution to all Senators.
+273 b. The Speaker and Chief Clerk of the House of Representatives, for distribution to all Representatives.
+274 c. The Director and Librarian of the Division of Legislative Services.
+275 (d) Amend § 3161, Title 15 of the Delaware Code by making deletions as shown by strike through and insertions
+276 as shown by underline as follows:
+277 § 3161. Voting procedure.
+278 (b) Notwithstanding any provision to the contrary, if a qualified unaffiliated voter who is registered to vote for
+279 the first time pursuant to § 2050A of this title appears at a primary election and indicates the intent to enroll in the party
+280 holding the primary election, such voter shall be enrolled immediately in that party and be permitted to cast a regular
+281 ballot for the primary election. [Repealed.]
+282 (e) The Department of Elections shall notify individuals registered to vote under Chapter 71 of Volume 83 of
+283 the Laws of Delaware from August 17, 2024, to the effective date of subsections (b) through (d) of this Section, which
+284 is established by subsection (f) of this Section, that the individuals may change or select political affiliation under §
+285 2049(a) of Title 15 of the Delaware Code.
+286 (f) Subsections (b) through (d) of this Section take effect on the date of publication in the Register of
+287 Regulations of a notice by the State Election Commissioner that the information technology infrastructure to implement
+288 subsections (b) through (d) of this Section is fully operational. The State Election Commissioner shall submit the notice
+289 to the Registrar of Regulations for publication.
+CG: RAM: JFC
+0211530007 Page 11 of 16
+
+290 Section 15. Section 1 of this Act appropriates $6,700 in Permit to Purchase to Executive, Criminal Justice,
+291 Delaware Justice Information System (10-07-02). The expenditure of these funds shall support full implementation of
+292 Senate Substitute 1 for Senate Bill 2 as passed by the 152nd General Assembly.
+293 Section 16. Section 1 of this Act appropriates $23,800 in Equipment to Office of Defense Services, Public
+294 Defender (15-02-02). The expenditure of these funds shall support full implementation of House Bill 86 as passed by
+295 the 152nd General Assembly.
+296 Section 17. Section 1 of this Act provides an appropriation of $1,350,000 to the Department of Health and
+297 Social Services, Division of Public Health, Community Health (35-05-20) for the Residential Lead Remediation to the
+298 Delaware Lead-Based Paint Abatement and Remediation Fund established by Title 16, §2613 of the Delaware Code. If
+299 House Substitute 1 for House Bill 70 of the 153rd General Assembly or similar legislation is enacted into law, the
+300 Department of Health and Social Services may use up to $350,000 of these funds to develop and implement a database
+301 and tracking system to monitor remediation and activities, and may transfer any funds between the Delaware Lead-
+302 Based Paint Abatement and Remediation Fund and the Lead-based Paint Hazard and Control Grant and Loan program
+303 to meet demand. The Department of Health and Social Services shall provide a report on the expenditure of these
+304 funds to the Co-Chairs of the Joint Finance Committee and the Controller General by May 4, 2026.
+305 Section 18. Section 1 of this Act provides an appropriation of $1,485,000 for the Smart Food Program to the
+306 Department of Health and Social Services, Social Services (35-07-01). These funds shall be used for initial
+307 implementation and development of the Smart Food Program and application. Upon implementation, the department
+308 shall provide a report to the Co-Chairs of the Joint Finance Committee, the Controller General, and the Director of the
+309 Office of Management and Budget on the status of implementation efforts, the number of participating users, the
+310 estimated expenditures of application development and the projected annual expenditures necessary to continue the
+311 program.
+312 Section 19. Section 1 of this Act provides an appropriation of $245,000 for DACS Update to Department of
+313 Correction, Administration, and Information Technology (38-01-14). The expenditure of these funds shall be
+314 contingent upon the passage of Senate Bill 7 or similar legislation of the 153rd General Assembly.
+315 Section 20. Section 1 of this Act provides an appropriation of $400,000 to Department of Safety and Homeland
+316 Security, State Police, Executive (45-06-01) and $400,000 to Fire Prevention Commission, State Fire Prevention
+317 Commission (75-03-01) for First Responder – Wellness Application Support. The expenditure of these funds is
+CG: RAM: JFC
+0211530007 Page 12 of 16
+
+318 intended to deliver support and resources to first responders through the implementation of a wellness application for
+319 use by law enforcement officers and firefighters through fire companies statewide. The provisions of 29 Del. C. c. 69
+320 shall not apply.
+321 Section 21. Section 1 of this Act appropriates $858,400 in Permit to Purchase to Safety and Homeland Security,
+322 State Police, State Bureau of Identification (45-06-08). The expenditure of these funds shall support full
+323 implementation of Senate Substitute 1 for Senate Bill 2 as passed by the 152nd General Assembly.
+324 Section 22. Section 1 of this Act appropriates $3,000,000 for Teacher-Driven Projects to the Department of
+325 Education, District and Charter Operations, Other Items (95-02-02). The funding shall support classroom-based
+326 literacy practices by enabling teachers to purchase evidence-based literacy materials for the classroom. Funding
+327 priority shall be given to teachers in schools that have the lowest levels of literacy proficiency and/or that have been
+328 designated for Targeted Support and Improvement (TSI) or Comprehensive Support and Improvement (CSI). The
+329 Department of Education shall submit a report by April 1, 2026, to the Co-Chairs of the Joint Finance Committee, the
+330 Controller General, and the Director of the Office of Management and Budget detailing the number of teachers who
+331 received funding, the items purchased, and the projects supported with these funds, the administrative fees expended,
+332 and any matching donations received from private entities.
+333 Section 23. Section 1 of this Act appropriates $2,000,000 to the Department of Education, District and
+334 Charter Operations, Other Items (95-02-02) for the Student Discipline Program. This funding shall be used to support
+335 additional seats within the existing alternative school programs statewide. These funds shall be allocated in the
+336 following manner: 50 percent to New Castle County, 25 percent to Kent County, and 25 percent to Sussex County. If
+337 funds are used for personnel costs, they may only be used for the state share in accordance with the schedules
+338 contained in 14 Del. C. c. 13. The services provided with this one-time funding shall provide year-round services as
+339 deemed appropriate and determined by the consortium board and the Department of Education within the prescribed
+340 state appropriation. The programs shall utilize research-based best-practice models and shall be considered a special
+341 school for the purposes of charging tuition payments to be made by school districts of residence under the statutory
+342 provisions of 14 Del. C. c. 6, such that the districts shall fund at least 30 percent of the total cost of the program. The
+343 New Castle County Consortium and the Department of Education shall oversee the administration of the program and
+344 may enter into contractual arrangements to operate the program. Such oversight shall include an annual evaluation of
+345 the program to be submitted to the Department of Education. A report shall be submitted to the Joint Finance
+CG: RAM: JFC
+0211530007 Page 13 of 16
+
+346 Committee, the Director of the Office of Management and Budget and the Controller General by May 1, 2026, and
+347 shall include the following: the number of students served; reasons for service; measures of behavioral improvement;
+348 measures of academic improvement as appropriate; rates of recidivism within programs; and number and types of
+349 referrals for additional services.
+350 Section 24. Section 1 of this Act appropriates $1,000,000 to the Department of Education, District and
+351 Charter Operations, Other Items (95-02-02) for School-Based Intervention Services Pilot Program. This funding shall
+352 be used to provide on-site school-based intervention services for students whose behavior disrupts the classroom
+353 setting and creates distractions that impede the learning process, but who are not eligible for placement in an
+354 alternative program pursuant to 14 DE Admin. Code 611. School districts may offer such services based on the
+355 identified needs of the district and its individual schools, subject to the requirements of 14 DE Admin. Code 609.
+356 Services provided under this pilot program may be provided to any students in grades K to 12. The Department of
+357 Education, in coordination with the Chief School Officers, shall oversee the administration of the program and identify
+358 the school settings that would be most appropriate for this pilot. The Department of Education shall submit a report to
+359 the Joint Finance Committee, the Director of the Office of Management and Budget and the Controller General by
+360 May 1, 2026 and shall include the following: the number of students served; reasons for service; measures of
+361 behavioral improvement; measures of academic improvement as appropriate; rates of recidivism within programs; and
+362 number and types of referrals for additional services.
+363 Section 25. Section 1 of this Act appropriates $1,700,000 to the Department of Education, Pass Through and
+364 Other Support Programs, Special Needs Programs (95-03-20) to complete development of its early childhood data
+365 system. Any funds remaining after data system expenses may be used by the Department of Education, Early
+366 Childhood Support, for one-time initiatives to support Kent and Sussex County Head Start programming. These funds
+367 shall not revert to the General Fund.
+368 Section 26. Section 1 of this Act appropriates $500,000 for the Adult Trade Extension/Apprentice Program to
+369 the Department of Education, Pass Through and Other Support Programs, Adult Education and Work Force Training
+370 (95-03-50). This one-time funding shall be used to provide additional services and seats within the existing Adult
+371 Trade Extension/Apprentice Programs statewide. This funding shall be distributed to the adult divisions of the three
+372 county-wide vocational technical districts in the following amounts: N.C.C. Vo-Tech $250,000; Polytech $125,000;
+CG: RAM: JFC
+0211530007 Page 14 of 16
+
+373 and Sussex Tech $125,000. The allocations will be used to provide adult post-secondary technical/registered
+374 apprentice training.
+375 Section 27. (a) Amend § 3602, Title 16 of the Delaware Code by making deletions as shown by strike through
+376 and insertions as shown by underline as follows and redesignating accordingly:
+377 § 3602. Definitions [For application of this section, see 84 Del. Laws, c. 373, § 3] [Expires upon fulfillment of
+378 the contingency in 84 Del. Laws, c. 373, § 2].
+379 As used in this chapter:
+380 (1) “Council” means the Delaware Council on Farm and Food Policy, a convening of state and nonstate
+381 food system stakeholders that advise the Delaware Secretary on Agriculture on food system topics.
+382 (b) Amend § 3603, Title 16 of the Delaware Code by making deletions as shown by strike through and insertions
+383 as shown by underline as follows:
+384 § 3603. Grants and financial support [For application of this section, see 84 Del. Laws, c. 373, § 3] [Expires
+385 upon fulfillment of the contingency in 84 Del. Laws, c. 373, § 2].
+386 (a) This bill chapter codifies the Program under the Delaware Grocery Initiative.
+387 (b) The Division shall, subject to appropriation and in consultation with the Council, appropriation, establish
+388 the Delaware Grocery Initiative to expand access to healthy foods in food deserts in Delaware and areas at risk of
+389 becoming food deserts in Delaware by providing grants and other forms of financial assistance to an eligible food
+390 resource, nonprofit food resource, local governmental unit food resource, or specialty grocer. The Division may:
+391 (c) The Division shall coordinate with the Council to share information and findings from the Healthy Food
+392 Retail Initiative to inform and make available technical assistance and counseling to Program participants. The Division
+393 may rely on the Division’s regional business managers to provide 1-on-1 counseling to the Program participants and
+394 assist Program participants to navigate regulatory processes, streamline compliance requirements, and access capital and
+395 other funding opportunities.
+396 (c) Amend § 3604, Title 16 of the Delaware Code by making deletions as shown by strike through and insertions
+397 as shown by underline as follows:
+398 § 3604. Food access strategy [For application of this section, see 84 Del. Laws, c. 373, § 3] [Expires upon
+399 fulfillment of the contingency in 84 Del. Laws, c. 373, § 2].
+CG: RAM: JFC
+0211530007 Page 15 of 16
+
+400 (a) The Council shall, subject to appropriation, develop a food access strategy to address food insecurity
+401 impacting populations within urban, suburban, and rural communities throughout the State. The strategy may include
+402 the following:
+403 (1) An analysis of identified vulnerabilities and concentrations of food insecurity risk, as well as a summary
+404 of the causes of food insecurity.
+405 (2) An inventory of food resources located throughout the State and a summary of specific barriers and
+406 solutions identified by distribution and retail operators.
+407 (3) An assessment of needs or gaps identified by food supply chain operators or individuals pursuing
+408 ownership or operation of a food resource, with particular attention to those independent retail operations.
+409 (4) A set of recommendations to address limited food access, the availability of nutritious food options,
+410 and to facilitate the expansion of foods, including nutrient rich foods, into food deserts and areas at risk of becoming
+411 food deserts.
+412 (b) The Council shall consult with public and private food resources, as well as state and nonstate entities for
+413 the purposes of creation, ongoing evaluation, implementation, and consideration of the food access strategy.
+414 (c) The Council shall issue a report documenting the food access strategy and submit the report to members of
+415 the General Assembly and the Office of the Governor by June 1, 2025. [Repealed.]
+SYNOPSIS
+This Act appropriates $37,632,955 to provide one-time funded items through the Office of Management and
+Budget.
+CG: RAM: JFC
+0211530007 Page 16 of 16
+
+[DELETED:  P i B S B LS   T C (       (         E        ( P        ( T       ( E       ( S        ( E   ( T   ( H   ( T ( T ( E]
+[DELETED:  ( E ( E ( E ( E ( E ( T ( A ( G $ ( P   (     ( D   ( E $ ( C $ ( D $ ( G $ ( R $ ( S $ ( E $ ( P   ( D $ ( K $ ( E   ( E   ( F    ( E    ( P   $ ( E     ( E $]
+[DELETED:  ( F $ ( A $ ( M  $ ( O   $ ( S $ ( T $ ( S $ ( S $ ( E $ ( A $ ( A $ S G 1S S C BS S A e GS S O 1 e n S S C]
+[DELETED:  s w f S M   O S M c A S M c S M c A S M cS S M c A  S M c]
+[DELETED:  S ( a u t ( a § ( ( i a a M r a v 2 ( ( v r t t m v a p s n b u f a o t v r ( v i p r]
+[DELETED:  ( c a a r b r c d ( ( i § ( d c p f ( V ( L 2 ( P i]
+[DELETED:  ( l T ( d ( t a d b c d t a ( m a 1 r a i 2 m 3 b f]
+[DELETED:  ( r s ( c t a a b c d e f g h p i ( D M V a t D o E T D o E m b a t u t i ( t ( s r i a]
+[DELETED:  b c c ( s t ( I t e r f a i d n i t i r b p a ( E r p m a t ( r t a ( i a d e ( p p]
+[DELETED:  ( T n p u p ( o t s m p i r p ( s o ( t e t ( t p ( t d ( o ( p ( A a t b t c o d]
+[DELETED:  e f a ( a ( ( s a b c ( a § ( t h b ( t i 2 ( S ( t ( o t S t e o t d o p t R o R s t]
+[DELETED: S   D S S D tS S S D H D a B t f    D i s O e pS S C cS S S C]
+[DELETED:  i u sS S S i   S E l p d D C r a    S C a f f c d s s p N m t]
+[DELETED:  C s m r    S C b s a i S E t t M b nS S O s C s  S t ( T c]
+[DELETED:  a a . a § t A ( f ( a § u ( ( t b r ( R m a o ( a § f]
+[DELETED:  ( i t ( o ( s ( o ( a f ( t ( t]

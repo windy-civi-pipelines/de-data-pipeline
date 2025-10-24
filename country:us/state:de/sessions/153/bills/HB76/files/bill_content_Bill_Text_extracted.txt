@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Gorman & Sen.Â Pinkney Reps. Burns, Heffernan, Morrison, Neal, Wilson-Anton HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 76 AN ACT TO AMEND TITLE 11 RELATING TO ARREST BY A PRIVATE PERSON. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Â§ 2514, Title 11 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 2514. Arrest without warrant. The arrest of a person may be lawfully made by any peace officer or a private person, officer, without a warrant, upon reasonable information that the accused stands charged in the courts of a state with a crime punishable by death or imprisonment for a term exceeding 1 year, but when so arrested the accused shall be taken before a judge or justice of the peace with all practicable speed and complaint shall be made against the accused under oath setting forth the ground for the arrest as in Â§â2513 of this title, and thereafter the accusedâs answer shall be heard as if the accused had been arrested on a warrant. SYNOPSIS This Act eliminates authorization for a warrantless arrest by a private person in the case of an individual accused in the courts of another state of a felony.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Gorman & Sen.Â Pinkney Reps. Burns, Heffernan, Morrison, Neal, Wilson-Anton HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE BILL NO. 76 AN ACT TO AMEND TITLE 11 RELATING TO ARREST BY A PRIVATE PERSON. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE: Section 1. Amend Â§ 2514, Title 11 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 2514. Arrest without warrant. The arrest of a person may be lawfully made by any peace officer or a private person, officer, without a warrant, upon reasonable information that the accused stands charged in the courts of a state with a crime punishable by death or imprisonment for a term exceeding 1 year, but when so arrested the accused shall be taken before a judge or justice of the peace with all practicable speed and complaint shall be made against the accused under oath setting forth the ground for the arrest as in Â§â2513 of this title, and thereafter the accusedâs answer shall be heard as if the accused had been arrested on a warrant. SYNOPSIS This Act eliminates authorization for a warrantless arrest by a private person in the case of an individual accused in the courts of another state of a felony.

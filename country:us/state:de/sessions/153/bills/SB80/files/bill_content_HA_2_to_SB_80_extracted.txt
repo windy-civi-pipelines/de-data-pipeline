@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 2 to SB 80
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Burns HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 2 TO SENATE BILL NO. 80 SYNOPSIS This Amendment clarifies that the Uniform Public Expression Act ("Act") does not apply to a cause of action: (1) By a governmental unit or an employee or agent of a governmental unit acting in an official capacity to enforce any law, regulation, or ordinance; (2) Based on a common law fraud claim; or (3) Alleging a violation of either Subchapter II or III of Chapter 25 of Title 6 of the Delaware Code. However, the Act does apply to such actions when the cause of action is a legal action against a person related to the communication, gathering, receiving, posting, or processing of consumer opinions or commentary, evaluations of consumer complaints, or reviews or ratings of businesses. This Amendment is substantively similar to House Amendment No. 1 to Senate Bill No. 80; however, it makes necessary technical corrections to citations and to include a citation to Â§ 6002(d) of Title 6, created by this Amendment, in Â§ 6007(a)(1) of Title 6.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Burns HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 2 TO SENATE BILL NO. 80 SYNOPSIS This Amendment clarifies that the Uniform Public Expression Act ("Act") does not apply to a cause of action: (1) By a governmental unit or an employee or agent of a governmental unit acting in an official capacity to enforce any law, regulation, or ordinance; (2) Based on a common law fraud claim; or (3) Alleging a violation of either Subchapter II or III of Chapter 25 of Title 6 of the Delaware Code. However, the Act does apply to such actions when the cause of action is a legal action against a person related to the communication, gathering, receiving, posting, or processing of consumer opinions or commentary, evaluations of consumer complaints, or reviews or ratings of businesses. This Amendment is substantively similar to House Amendment No. 1 to Senate Bill No. 80; however, it makes necessary technical corrections to citations and to include a citation to Â§ 6002(d) of Title 6, created by this Amendment, in Â§ 6007(a)(1) of Title 6.

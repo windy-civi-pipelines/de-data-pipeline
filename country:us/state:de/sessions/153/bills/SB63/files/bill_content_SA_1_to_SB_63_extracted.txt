@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - SA 1 to SB 63
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Sen.Â Walsh DELAWARE STATE SENATE 153rd GENERAL ASSEMBLY SENATE AMENDMENT NO. 1 TO SENATE BILL NO. 63 AMEND Senate Bill No. 63 on line 11 between â (j) â and â A â by inserting â (1) â therein. FURTHER AMEND Senate Bill No. 63 between lines 12 and 13 by inserting the following: â (2) A general contractorâs liability for a subcontractorâs penalties under paragraph (j)(1) of this section does not include debarment under paragraph (h)(1) of this section. â. SYNOPSIS This Amendment clarifies that a general contractor is not subject to debarment for a subcontractor's violations. Author: Senator Walsh
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Sen.Â Walsh DELAWARE STATE SENATE 153rd GENERAL ASSEMBLY SENATE AMENDMENT NO. 1 TO SENATE BILL NO. 63 AMEND Senate Bill No. 63 on line 11 between â (j) â and â A â by inserting â (1) â therein. FURTHER AMEND Senate Bill No. 63 between lines 12 and 13 by inserting the following: â (2) A general contractorâs liability for a subcontractorâs penalties under paragraph (j)(1) of this section does not include debarment under paragraph (h)(1) of this section. â. SYNOPSIS This Amendment clarifies that a general contractor is not subject to debarment for a subcontractor's violations. Author: Senator Walsh
