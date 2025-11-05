@@ -1,0 +1,101 @@
+{
+  "legislative_session": "153",
+  "identifier": "HR 19",
+  "title": "AMENDING THE RULES OF THE HOUSE OF REPRESENTATIVES OF THE 153RD GENERAL ASSEMBLY RELATING TO REMOTE PARTICIPATION IN SPECIAL SESSION.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This House Resolution changes the Rules of the House of Representatives of the 153rd Assembly by permitting remote attendance of members at a special session so long as a quorum of the House is physically present in Dover. Authorization of the Speaker of the House is required for remote participation.\r\nSpecial session is defined for purposes of this rule to mean \u201ca convening of the full House to conduct business during any portion of the calendar year that does not fall between the second Tuesday in January and 5:00 p.m. on the last day of June\u201d and includes a convening of the General Assembly under \u00a7 16 of Article III of the Delaware Constitution."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Rules Committee in House",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-05T23:19:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142717&legislationTypeId=2&docTypeId=2&legislationName=HR19",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142717&legislationTypeId=2&docTypeId=2&legislationName=HR19",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142717",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-05T23:19:53Z"
+  }
+}

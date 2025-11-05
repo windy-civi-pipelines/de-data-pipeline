@@ -1129,6 +1129,11 @@
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
   },
+  "HB255": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
   "HCR45": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
@@ -2430,6 +2435,11 @@
     "date_folder": "2025-2026"
   },
   "HB302": {
+    "session_id": "153",
+    "name": "153rd General Assembly (2025-2026)",
+    "date_folder": "2025-2026"
+  },
+  "HR19": {
     "session_id": "153",
     "name": "153rd General Assembly (2025-2026)",
     "date_folder": "2025-2026"
