@@ -32,6 +32,57 @@
       "_processing": {
         "log_file_created": "2025-11-04T23:18:01Z"
       }
+    },
+    {
+      "description": "Suspension of Rules in Senate",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T23:19:49Z"
+      }
+    },
+    {
+      "description": "Lifted From Table in Senate",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T23:19:49Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T23:19:49Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-06T23:19:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-04T23:18:01Z",
+    "logs_latest_update": "2025-11-06T23:19:49Z",
     "text_extraction_latest_update": "2025-11-05T08:51:52.803427Z"
   }
 }
