@@ -34,6 +34,24 @@
       "_processing": {
         "log_file_created": "2025-11-05T23:19:53Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 3 On Its Merits",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-07T23:19:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,7 +210,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-05T23:19:53Z",
+    "logs_latest_update": "2025-11-07T23:19:38Z",
     "text_extraction_latest_update": "2025-11-06T09:14:24.363797Z"
   }
 }
