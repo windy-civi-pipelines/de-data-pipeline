@@ -52,6 +52,30 @@
       "_processing": {
         "log_file_created": "2025-11-07T23:19:38Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HB 255 - Introduced and Placed With Bill",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-12T23:18:49Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HB 255 - Introduced and Placed With Bill",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-12T23:18:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,7 +226,9 @@
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "amendment": "HA 1, HA 2"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -210,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T23:19:38Z",
+    "logs_latest_update": "2025-11-12T23:18:49Z",
     "text_extraction_latest_update": "2025-11-08T08:44:23.805429Z"
   }
 }
