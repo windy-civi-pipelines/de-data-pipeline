@@ -10,29 +10,34 @@
   "abstracts": [
     {
       "note": "synopsis",
-      "abstract": "This House Resolution changes the Rules of the House of Representatives of the 153rd Assembly by permitting remote attendance of members at a special session so long as a quorum of the House is physically present in Dover. Authorization of the Speaker of the House is required for remote participation.\r\nSpecial session is defined for purposes of this rule to mean \u201ca convening of the full House to conduct business during any portion of the calendar year that does not fall between the second Tuesday in January and 5:00 p.m. on the last day of June\u201d and includes a convening of the General Assembly under \u00a7 16 of Article III of the Delaware Constitution."
+      "abstract": "This House Substitute for House Resolution No. 19, like the original, changes the Rules of the House of Representatives of the 153rd Assembly by permitting remote attendance and participation by members at a special session, so long as a quorum of the House is physically present in Dover. Authorization of the Speaker of the House is required for remote participation.\r\nThe definition of \u201cspecial session\u201d in this substitute differs in that for purposes of remote participation by a member, it is only allowed \u201cduring any portion of the calendar year that does not fall between the second Tuesday in January and the first day of July.\u201d The original House Resolution would have included a special session after 5:00 p.m. on June 30 as well.  The definition of \u201cspecial session\u201d includes a convening of the General Assembly under \u00a7 16 of Article III of the Delaware Constitution.\r\nThis substitute also differs from the original in that if the Speaker denies a request to participate remotely, the Speaker must include the reason for the denial in the Speaker\u2019s written response. It also requires that a member participating remotely must appear on camera when voting or responding to an attendance roll call."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced and Assigned to Rules Committee in House",
-      "date": "2025-11-05",
+      "description": "was introduced and adopted in lieu of HR 19",
+      "date": "2025-11-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
+        "introduction"
       ],
-      "related_entities": [
-        {
-          "name": "Rules",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
+      "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-05T23:19:53Z"
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 22 YES 15 NO 1 NOT VOTING 3 ABSENT",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
       }
     }
   ],
@@ -68,11 +73,11 @@
       "note": "Bill Text",
       "links": [
         {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142717&legislationTypeId=2&docTypeId=2&legislationName=HR19",
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142719&legislationTypeId=6&docTypeId=2&legislationName=HS1forHR19",
           "media_type": "text/html"
         },
         {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142717&legislationTypeId=2&docTypeId=2&legislationName=HR19",
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142719&legislationTypeId=6&docTypeId=2&legislationName=HS1forHR19",
           "media_type": "application/pdf"
         }
       ],
@@ -84,11 +89,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142717",
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142719",
       "note": "text/html"
     }
   ],
-  "extras": {},
+  "extras": {
+    "substitute": "HS 1"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
     "name": "Delaware",
@@ -96,7 +103,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-05T23:19:53Z",
+    "logs_latest_update": "2025-11-13T23:18:05Z",
     "text_extraction_latest_update": "2025-11-06T09:14:26.286782Z"
   }
 }

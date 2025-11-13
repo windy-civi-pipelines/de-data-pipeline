@@ -102,6 +102,18 @@
       "_processing": {
         "log_file_created": "2025-11-07T23:19:38Z"
       }
+    },
+    {
+      "description": "Passed By House. Votes: 37 YES 2 NOT VOTING 2 ABSENT",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -204,7 +216,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T23:19:38Z",
+    "logs_latest_update": "2025-11-13T23:18:05Z",
     "text_extraction_latest_update": "2025-11-08T08:44:26.033164Z"
   }
 }

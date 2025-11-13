@@ -76,6 +76,83 @@
       "_processing": {
         "log_file_created": "2025-11-12T23:18:49Z"
       }
+    },
+    {
+      "description": "Amendment HA 1 to HB 255 - Stricken in House",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HB 255 - Passed By House. Votes: 37 YES 2 NOT VOTING 2 ABSENT",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
+    },
+    {
+      "description": "Amendment HA 3 to HB 255 - Introduced and Placed With Bill",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
+    },
+    {
+      "description": "Amendment HA 3 to HB 255 - Passed By House. Votes: 36 YES 3 NOT VOTING 2 ABSENT",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 26 YES 13 NO 2 ABSENT",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
+    },
+    {
+      "description": "Assigned to Executive Committee in Senate",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:18:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -216,6 +293,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HA 2 to HB 255",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142721&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142721&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HA 3 to HB 255",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142722&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142722&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -227,7 +334,7 @@
     }
   ],
   "extras": {
-    "amendment": "HA 1, HA 2"
+    "amendment": "HA 2, HA 3"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:de/government",
@@ -236,7 +343,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-12T23:18:49Z",
+    "logs_latest_update": "2025-11-13T23:18:05Z",
     "text_extraction_latest_update": "2025-11-13T09:16:38.499334Z"
   }
 }
