@@ -153,6 +153,48 @@
       "_processing": {
         "log_file_created": "2025-11-13T23:18:05Z"
       }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 4 On Its Merits",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:18:10Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 14 YES 6 NO 1 ABSENT",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:18:10Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:18:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -343,7 +385,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-13T23:18:05Z",
+    "logs_latest_update": "2025-11-26T23:18:10Z",
     "text_extraction_latest_update": "2025-11-14T08:52:06.311648Z"
   }
 }
